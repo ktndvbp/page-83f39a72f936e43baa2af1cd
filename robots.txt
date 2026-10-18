@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-42c276e60e.timkhra.cn/sitemap.xml
